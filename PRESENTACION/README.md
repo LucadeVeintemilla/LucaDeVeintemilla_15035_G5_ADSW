@@ -1,6 +1,4 @@
-#Enlace de la primera reunión:
-##https://youtu.be/cSsrZgy0xxo
-#Enlace de la segunda reunión:
-##https://youtu.be/5Gs39ZsFYVM
-#Enlace del funcionamiento del programa:
-##https://youtu.be/iZXb9MSZJ4w
+## Enlaces de los Videos de las Reuniones con el Cliente Empresarial
+1. [Reunión I: Revisión del Primer Sprint](https://youtu.be/cSsrZgy0xxo)
+2. [Reunión II: Revisión del Segundo Sprint](https://youtu.be/5Gs39ZsFYVM)
+3. [Revisión del Funcionamiento del Programa](https://youtu.be/iZXb9MSZJ4w)
