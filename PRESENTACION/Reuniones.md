@@ -1,0 +1,6 @@
+#Enlace de la primera reunión:
+##https://youtu.be/cSsrZgy0xxo
+#Enlace de la segunda reunión:
+##https://youtu.be/5Gs39ZsFYVM
+#Enlace del funcionamiento del programa:
+##https://youtu.be/iZXb9MSZJ4w
